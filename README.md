@@ -14,6 +14,7 @@
 © Furuhashi Laboratory/Kuniharu　Higano, CC BY 4.0
 
 # Introduce
+GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表現する。きっかけは私がサカナクションの山口一郎さんとインスタライブコラボしたことである。サカナクションと日向野邦春という一生切っても切り離せない関係を表すためにこの課題に取り組んだ。
 
 # Methods
 
