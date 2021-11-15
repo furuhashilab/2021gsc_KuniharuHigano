@@ -21,6 +21,25 @@
 
 # Disccussion
 
+# 参考文献
+https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
+
+# 先行研究
+猪苗代湖ズ / I love you & I need you ふくしま [MORE ACTION, MORE HOPE]
+https://youtu.be/sQEVUsHt1Bk
+
+沖縄ファミリーマート 国道508号線「結」特別編　180秒CM
+https://youtu.be/pUPWhE2Cm4s
+
+THE BOOM 島唄　PV　20周年記念 ver
+https://youtu.be/Oq9RkXOyFnY
+
+Stand By Me | Playing For Change | Song Around The World
+https://youtu.be/Us-TVg40ExM
+
+Mela! - 全国のアカペラ2年生 & 緑黄色社会
+https://youtu.be/bKkXOdZrXVY
+
 
 
 
