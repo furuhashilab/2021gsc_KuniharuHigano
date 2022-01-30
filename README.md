@@ -23,7 +23,7 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 
 ③GeoJsonファイルを歩いた形跡が被らないように15のレイヤーに分けてMapbox Studioに入れて,opacity(透過率)は0に設定しておく<img width="1918" alt="スクリーンショット 2022-01-31 0 22 55" src="https://user-images.githubusercontent.com/40018527/151705878-5e12bb01-5cbe-4ca9-96a8-a5d83414a3aa.png">
 
-④
+④Mapbox Storytelling[https://github.com/mapbox/storytelling]を使って文字を歌詞通りに表示させる。
 
 # Result
 
