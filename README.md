@@ -33,10 +33,13 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 
 # Disccussion
 
-#　当日発表スライド
+
 
 # 参考文献
 https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
+
+# 当日スライド
+https://www.mapbox.com/webinars/storytelling-template-live-demo
 
 # 先行研究
 猪苗代湖ズ / I love you & I need you ふくしま [MORE ACTION, MORE HOPE]
