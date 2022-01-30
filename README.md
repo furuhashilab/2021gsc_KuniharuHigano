@@ -19,7 +19,7 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 # Methods
 ①地図上で歌詞にあった道を見つけてStravaを起動させて歩いていく。一文字ずつ切り離して表現していくためその都度新しいランニングやウォーキングを作成する。出来るだけ道の上で表現したいが、夜や新などの難しい漢字は公園などで歩いて表現していく。
 
-②StravaからGPXファイルを抽出してしてGeoJson ioでGeoJsonファイルを生成する。<img width="1920" alt="スクリーンショット 2022-01-31 0 21 16" src="https://user-images.githubusercontent.com/40018527/151705822-5775ea43-cfa5-4725-8f8a-55cd2c633518.png">
+②StravaからGPXファイルを抽出してして[GeoJson io](https://geojson.io/#map=2/20.0/0.0)でGeoJsonファイルを生成する。<img width="1920" alt="スクリーンショット 2022-01-31 0 21 16" src="https://user-images.githubusercontent.com/40018527/151705822-5775ea43-cfa5-4725-8f8a-55cd2c633518.png">
 
 ③GeoJsonファイルを歩いた形跡が被らないように15のレイヤーに分けてMapbox Studioに入れて,opacity(透過率)は0に設定しておく<img width="1918" alt="スクリーンショット 2022-01-31 0 22 55" src="https://user-images.githubusercontent.com/40018527/151705878-5e12bb01-5cbe-4ca9-96a8-a5d83414a3aa.png">
 
