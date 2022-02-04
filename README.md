@@ -30,7 +30,7 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 
 ⑤Storytellingのページをスクショ<img width="1920" alt="スクリーンショット 2022-02-04 19 12 02" src="https://user-images.githubusercontent.com/40018527/152578584-2359bccb-501d-42aa-a7d4-d67774cb5a67.png">
 
-⑥AfterEffects（Geolayers3）を使ってアニメーションをつける部分の編集を行う。この際に今回はMapboxStudioで作った地図を使って編集を行った。https://medium.com/furuhashilab/12-24-advent-calandar-geolayers3%E3%81%ABmapbox%E3%81%AE%E5%9C%B0%E5%9B%B3%E3%82%92%E5%B0%8E%E5%85%A5-4134085d9995
+⑥AfterEffects（Geolayers3）を使ってアニメーションをつける部分の編集を行う。この際に今回は[MapboxStudioで作った地図を使って編集](https://medium.com/furuhashilab/12-24-advent-calandar-geolayers3%E3%81%ABmapbox%E3%81%AE%E5%9C%B0%E5%9B%B3%E3%82%92%E5%B0%8E%E5%85%A5-4134085d9995)を行った。
 
 
 # Result
