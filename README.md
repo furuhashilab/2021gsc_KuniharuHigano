@@ -29,19 +29,22 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 [Mapbox storytellingチュートリアル](https://www.mapbox.com/webinars/storytelling-template-live-demo)
 
 
-## Result
+# Result
 
-## Disccussion
+# Disccussion
+
+## GPS Drwingは音楽と文字をつなげる存在となる
+GPS Drawingというのは2000年にはすでに確立していた。GPSの進歩に伴いより鮮明な文字や絵を描くことが出来るようになった。しかし、今回「音楽×地図」という新たな表現手法を試みた。その結果として、今までは音だけに価値があった音楽に「場所」という価値（聖地）を作ることができた。これにより多くのファンが真似をし、異なるアーティストや楽曲でも挑戦する事例が出てくると考えられる。
 
 
 
-# 参考文献
+## 参考文献
 https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
 
-# 当日スライド
+## 当日スライド
 https://www.mapbox.com/webinars/storytelling-template-live-demo
 
-# 先行研究
+## 先行研究
 猪苗代湖ズ / I love you & I need you ふくしま [MORE ACTION, MORE HOPE]
 https://youtu.be/sQEVUsHt1Bk
 
