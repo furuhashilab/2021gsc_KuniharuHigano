@@ -29,9 +29,9 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 [Mapbox storytellingチュートリアル](https://www.mapbox.com/webinars/storytelling-template-live-demo)
 
 
-# Result
+## Result
 
-# Disccussion
+## Disccussion
 
 
 
