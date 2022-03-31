@@ -34,7 +34,6 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 よくやりがちなミスでファイル名を日本語にしてしまうことがある。そうするとStudioで識別されずにtrueというファイルになってしまうので注意。このプロジェクトの場合はkanji_egaku.geojsonこのような形式とする。
 
 ④[Mapbox Storytelling](https://github.com/mapbox/storytelling)を使って文字を歌詞通りに表示させる。<img width="1512" alt="スクリーンショット 2022-01-31 0 30 07" src="https://user-images.githubusercontent.com/40018527/151706138-45a25ee7-da25-4140-9f4b-2af51386a69f.png">
-[Mapbox storytellingチュートリアル](https://www.mapbox.com/webinars/storytelling-template-live-demo)
 
 ⑤Storytellingのページをスクショ<img width="1920" alt="スクリーンショット 2022-02-04 19 12 02" src="https://user-images.githubusercontent.com/40018527/152578584-2359bccb-501d-42aa-a7d4-d67774cb5a67.png">
 
