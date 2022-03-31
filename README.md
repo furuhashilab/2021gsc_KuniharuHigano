@@ -43,6 +43,8 @@ GPS　Drawingを使ってサカナクションの「新宝島」の歌詞を表�
 
 # Result
 
+https://twitter.com/F1Kuni/status/1490437963221991427
+
 # Disccussion
 
 ## GPS Drwingは音楽と文字をつなげる存在となる
