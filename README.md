@@ -58,7 +58,7 @@ GPS Drawingというのは2000年にはすでに確立していた。GPSの進�
 https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
 
 ## 当日スライド
-https://www.mapbox.com/webinars/storytelling-template-live-demo
+https://docs.google.com/presentation/d/1_nCZRUrAjojlcyk7JqbbC7a_0xbr8Wk7MrgPzQHqCGM/edit?usp=sharing
 
 ## 先行研究
 [猪苗代湖ズ / I love you & I need you ふくしま [MORE ACTION, MORE HOPE]](https://youtu.be/sQEVUsHt1Bk)
